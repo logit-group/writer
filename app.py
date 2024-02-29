@@ -6,7 +6,7 @@ import streamlit as st
 # headings
 title = "blog writer"
 st.header(":book: blog prompt generator")
-st.markdown("generate blog prompts for [chatgptplus](https://chat.openai.com/)")
+st.markdown("generate blog prompts for [chatgptplus](https://chat.openai.com/?model=gpt-4)")
 
 # user inputs on sidebar
 st.sidebar.title("設定")
